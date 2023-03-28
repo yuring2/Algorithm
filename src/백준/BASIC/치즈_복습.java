@@ -14,7 +14,7 @@ public class 치즈_복습 {
     private static int hour = 0;
 
     public static void main(String[] args) {
-       
+
         inputData();
         bfs();
     } // end of main
